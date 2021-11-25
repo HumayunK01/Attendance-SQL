@@ -1,11 +1,3 @@
-/*
-SQLyog - Free MySQL GUI v5.17
-Host - 5.5.1-m2-community : Database - technosoft
-*********************************************************************
-Server version : 5.5.1-m2-community
-*/
-
-
 SET NAMES utf8;
 
 SET SQL_MODE='';
